@@ -1,3 +1,5 @@
 # maze-solver
+
 Based on reinforcement learning.
-Given the current location within the maze provides the most effective pathway to reach the expected destination.
+Based on the starting point given shortest possible pathway to reach the end point will be returned. Here the preferred starting point is hard coded.
+
